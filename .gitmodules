@@ -1,0 +1,7 @@
+[submodule ".nn-build"]
+	path = .nn-build
+	url = git@github.com:chalos/nn-app-build.git
+	branch = nn/main/dev
+[submodule "nn-app-media"]
+	path = nn-app-media
+	url = https://github.com/nenoneca/nn-app-media.git

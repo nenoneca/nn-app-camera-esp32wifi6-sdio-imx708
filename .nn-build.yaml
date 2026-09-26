@@ -1,0 +1,3 @@
+device_type: media
+toolchain: esp-idf
+target: esp32p4
